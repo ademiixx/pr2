@@ -12,3 +12,8 @@
 body{
     font-family: 'Sixtyfour Convergence',sans-serif;
 }
+
+p{
+    font-size: 40px;
+    color: orange;
+}
