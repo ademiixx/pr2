@@ -9,6 +9,9 @@
     box-sizing: inherit;
 }
 
+
+@import url('https://fonts.googleapis.com/css2?family=Sixtyfour+Convergence&display=swap');
+
 body{
     font-family: 'Sixtyfour Convergence',sans-serif;
 }
